@@ -1,0 +1,2 @@
+[console_scripts]
+researchpilot = researchpilot.__main__:main
